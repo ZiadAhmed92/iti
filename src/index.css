@@ -1,0 +1,59 @@
+
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.me{
+    top: 30%;
+    padding-left: 50px;
+}
+.button{
+    background: transparent;
+ 
+    color: white;
+    padding:5px 20px;
+    border: 1px solid white;
+    margin: 30px 130px;
+
+}
+.text-muted{
+    color: rgba(255, 255, 255, 0.6) !important;
+}
+@media only screen and (max-width: 600px) {
+  .me{
+    padding-left:0px;
+  }
+  .button{
+    margin-left: 100px;
+  }
+  }
+  .btn1{
+    background: #000;
+    color: white;
+    padding:10px 20px !important;
+    margin: 10px 0;
+  }
+.Skill{
+  width:120px;
+  font-size: 1.5em;
+  margin: 0 20px;
+
+}
+.progress{
+
+  border-radius: 0 !important;
+  -webkit-border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+  -ms-border-radius: 0 !important;
+  -o-border-radius: 0 !important;
+  
+}
+.cart{
+  height: 200px !important;
+}
+.btn2{
+  background-color: transparent;
+  width: fit-content;
+  padding: 5px 20px;
+  color: white;
+  border: 1px solid;
+}
