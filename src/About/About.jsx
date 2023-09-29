@@ -11,7 +11,10 @@ const About = () => {
                 </div>
                 <div className="col-md-8">
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam voluptas officia sint est incidunt. Ex hic iure repellendus distinctio! Quam distinctio, illo aliquid temporibus harum inventore ut necessitatibus quibusdam aspernatur.</p>
+                    <div className='about-btn1 w-100 '>
                     <button className='btn1 px-5'>DOWNLOAD CV</button>
+
+                    </div>
                 </div>
             </div>
         </div>

@@ -23,8 +23,8 @@ const Footer = () => {
             <button className='btn2'>Contact Me</button>
 
             </div>
-            <div className="col-md-4  p-5 position-relative">
-                <div className='position-absolute end-0'>
+            <div className=" col-md-4  p-5 position-relative">
+                <div className='footer position-absolute end-0'>
                 <h6 >Social Media : </h6>
                 <div >
                         <a  href='https://twitter.com/ZiadAhm27793817'><i className='fab fa-twitter mx-2'></i></a>
